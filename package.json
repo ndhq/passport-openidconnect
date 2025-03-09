@@ -1,5 +1,5 @@
 {
-  "name": "passport-openidconnect",
+  "name": "@ndhq/passport-openidconnect",
   "version": "0.1.2",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
@@ -18,14 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://github.com/ndhq/passport-openidconnect.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport-openidconnect/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/ndhq/passport-openidconnect/issues"
   },
   "license": "MIT",
   "licenses": [

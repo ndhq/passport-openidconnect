@@ -1,6 +1,6 @@
 {
   "name": "@ndhq/passport-openidconnect",
-  "version": "0.1.2",
+  "version": "0.1.2-nya",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
     "passport",
